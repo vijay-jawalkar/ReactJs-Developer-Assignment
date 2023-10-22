@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "email": "vijay@gmail.com",
+      "password": "$2a$10$uGSGUzrKeCcrhc/yeIFPS./UfQaGRtxBDLD5uHfSDEbgC07iqa4Ze",
+      "name": "Vijay Jawalkar",
+      "id": 1
+    }
+  ]
+}
